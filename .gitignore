@@ -19,6 +19,7 @@ expo-env.d.ts
 
 .env
 text.md
+.vscode
 
 # Metro
 .metro-health-check*
